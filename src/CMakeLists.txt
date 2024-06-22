@@ -32,6 +32,7 @@ add_executable(xenomods
 		xenomods/modules/bf2/EventDebugUtils.cpp
 		xenomods/modules/bf2/CompatabilityFix.cpp
 		xenomods/modules/bfsw/AppletRedirect.cpp
+        xenomods/modules/bf3/WwiseDumper.cpp
 
         xenomods/stuff/utils/debug_util.cpp
 		xenomods/stuff/utils/util.cpp
